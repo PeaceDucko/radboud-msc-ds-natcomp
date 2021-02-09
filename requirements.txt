@@ -1,0 +1,2 @@
+deap
+networkx==2.5
